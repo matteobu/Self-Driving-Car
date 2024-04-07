@@ -1,0 +1,10 @@
+body {
+  background-color: #e39b9b;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  text-align: center;
+  overflow: hidden;
+}
+#myCanvas {
+  background-color: lightgray;
+}
